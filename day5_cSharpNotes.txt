@@ -1,0 +1,6 @@
+day 5 CSharp
+
+- typed in the details for each client and client details
+- created relationships between each table presented
+- learned to delete all tasks in the task manager beginning with SQL after closing the SQL Manager app
+- 
